@@ -1,36 +1,42 @@
-.funky-text {
-    font-size: 16px;
-    color: blue;
-    font-style: italic;
-}
-
 .yeah-whatever {
     font-size: 25px;
-    color: black;
+    color: white;
     font-style: italic;
 }
 
 .another-one {
     font-size: 20px;
-    color: black;
+    color: white;
     font-style: italic;
 }
 
 .title-thing {
     font-size: 60px;
-    color: black;
+    color: white;
     font-style: normal;
 }
 
 .hello-hi {
     font-size: 23px;
-    color: purple;
-    font-style: bold;
-    
-} 
-
-    body {
-    background-color: lightblue;
-    color: black;
+    color: lightblue;
+    font-style: bold;    
 }
-        
+ 
+.the-white {
+    font-size: 16px;
+    color: white;
+    font-style: normal;
+}
+
+.this-thing {
+    font-size: 25px;
+    color: white;
+    font-style: italic;
+}
+
+html {
+    background-color: lightblue;
+    background-image: url('http://wallpaperswa.com/thumbnails/detail/20120819/old%20wallpaper%20texture%20pattern%20by%20enchantedgal%20stock%20more%20leik%20this%202560x1920%20wallpaper_wallpaperswa.com_95.jpg');
+    background-size: cover;
+    background-attachment: local;   
+}
